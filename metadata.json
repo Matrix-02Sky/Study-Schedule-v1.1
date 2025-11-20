@@ -1,0 +1,5 @@
+{
+  "name": "Study Schedule Alarm V1.1",
+  "description": "A schedule tracking app that vibrates and beeps at specific start times based on a student's daily routine.",
+  "requestFramePermissions": []
+}
